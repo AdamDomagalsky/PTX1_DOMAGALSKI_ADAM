@@ -14,19 +14,18 @@ gem install json
 gem install pp
 ```
 or run script
-`bash installation.sh`
+`installation.sh`
 
 
 ## Running
 
-To run demo: `bash demo.sh`
+To run demo: `demo.sh`
+
 To run just script: `wikipedia.rb`
 
 ## Authors
 
-* **Adam Domagalski** - *Initial work* - [Terminal Wikipedia](https://github.com/AdamDomagalsky/PTX1_DOMAGALSKI_ADAM)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Adam Domagalski** - [Terminal Wikipedia](https://github.com/AdamDomagalsky/PTX1_DOMAGALSKI_ADAM)
 
 ## License
 
